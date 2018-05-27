@@ -1,0 +1,10 @@
+git init  #local git repository
+git remote add origion git@github.com/jamie1997
+git add
+get commit
+echo "# similarity" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jamie1997/similarity.git
+git push -u origin master
